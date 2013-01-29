@@ -3,10 +3,10 @@ $var = @$_GET['query'];
 $trimmed = trim($var);
 
 // Database Connection Info
-DEFINE ('DB_USER', 'afabu');
-DEFINE ('DB_PASSWORD', 'afabu2012!!');
-DEFINE ('DB_HOST', 'powerfolder.chicagoadvisory.com');
-DEFINE ('DB_NAME', 'afabu');
+DEFINE ('DB_USER', '');
+DEFINE ('DB_PASSWORD', '');
+DEFINE ('DB_HOST', '');
+DEFINE ('DB_NAME', '');
 
 
 //Make Connection
